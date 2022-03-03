@@ -8,4 +8,4 @@ navbar:
       href: Journal.html
     - text: "Favorite Products"
       href: Links.html
-output_dir: "Pup Pals"
+output_dir: "docs"
