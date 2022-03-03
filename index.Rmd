@@ -17,19 +17,19 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **Emmylou**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Emmylou is a Mini Aussiedoodle born in Bremen, GA. She was born on September 21st, 2020. Emmylou is on the smaller side for minis weighting roughly 30 pounds. Since Emmy is a mix between and poodle and Australian Shepherd, she is very smart and athletic. She learns new tricks quickly. She loves her people hard and likes to be by their side 24/7. Emmylou is an absolute sweetheart.
 
-## How to use
+## Emmylou's Favorite Activities
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+1. Saturday walks to the dog park
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+2. Catching the ball in the backyard
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+3. Cuddling with her people
 
-4. Change everything to make it your own.
+4. Trips to the lake
 
 
 </div>
