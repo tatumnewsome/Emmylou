@@ -18,6 +18,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 
 ::: col-sm-6
+
 # **Emmylou**
 
 Emmylou is a Mini Aussiedoodle born in Bremen, GA. She was born on September 21st, 2020. Emmylou is on the smaller side for minis weighting roughly 30 pounds. Since Emmy is a mix between and poodle and Australian Shepherd, she is very smart and athletic. She learns new tricks quickly. She loves her people hard and likes to be by their side 24/7. Emmylou is an absolute sweetheart.

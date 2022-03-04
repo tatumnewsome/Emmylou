@@ -3,28 +3,29 @@ title: "Pictures"
 output: html_document
 ---
 
-<style type="text/css">
-.title {
-  display: none;
-}
+# TEST
+<!-- <style type="text/css"> -->
+<!-- .title { -->
+<!--   display: none; -->
+<!-- } -->
 
-#getting-started img {
-  margin-right: 10px;
-}
+<!-- #getting-started img { -->
+<!--   margin-right: 10px; -->
+<!-- } -->
 
-</style>
+<!-- </style> -->
 
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
+<!-- <div class="row" style="padding-top: 30px;"> -->
+<!-- <div class="col-sm-6"> -->
 
-# **Emmylou**
+<!-- # **Emmylou** -->
 
-Here is where I will put pictures if I learn that step
-
-
-</div>
-<div class="col-sm-6">
+<!-- Here is where I will put pictures if I learn that step -->
 
 
-</a>
-</div>
+<!-- </div> -->
+<!-- <div class="col-sm-6"> -->
+
+
+<!-- </a> -->
+<!-- </div> -->
