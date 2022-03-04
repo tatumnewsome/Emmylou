@@ -3,6 +3,7 @@ title: "Emmylou"
 output: html_document
 ---
 
+```{=html}
 <style type="text/css">
 .title {
   display: none;
@@ -13,31 +14,27 @@ output: html_document
 }
 
 </style>
-
+```
 <div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
 
+::: col-sm-6
 # **Emmylou**
 
 Emmylou is a Mini Aussiedoodle born in Bremen, GA. She was born on September 21st, 2020. Emmylou is on the smaller side for minis weighting roughly 30 pounds. Since Emmy is a mix between and poodle and Australian Shepherd, she is very smart and athletic. She learns new tricks quickly. She loves her people hard and likes to be by their side 24/7. Emmylou is an absolute sweetheart.
 
 ## Emmylou's Favorite Activities
 
-1. Saturday walks to the dog park
+1.  Saturday walks to the dog park
 
-2. Catching the ball in the backyard
+2.  Catching the ball in the backyard
 
-3. Cuddling with her people
+3.  Cuddling with her people
 
-4. Trips to the lake
+4.  Trips to the lake
+:::
 
+<!-- ::: col-sm-6 -->
+<!-- ### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io) -->
 
-</div>
-<div class="col-sm-6">
-
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
-
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
-</a>
-</div>
+<!-- <a href = "https://crumplab.github.io"> ![](images/logo.png) </a> -->
+<!-- ::: -->
