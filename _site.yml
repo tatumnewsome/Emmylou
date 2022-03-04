@@ -5,7 +5,7 @@ navbar:
     - text: "All about Emmy"
       href: index.html
     - text: "Pup Pals"
-      href: Journal.html
+      href: Puppals.html
     - text: "Favorite Products"
       href: Links.html
 output_dir: "docs"
