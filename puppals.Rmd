@@ -1,14 +1,6 @@
 ---
 title: "Pup Pals"
-output:
-  html_document:
-    toc: false
-    toc_float: fales
-    collapsed: false
-    number_sections: false
-    toc_depth: 1
-    #code_folding: hide
+output: html_document
 ---
-
 
 # TEST
