@@ -7,7 +7,7 @@ navbar:
     - text: "Pictures"
       href: pictures.html
     - text: "Pup Pals"
-      href: Puppals.html
+      href: puppals.html
     - text: "Favorite Products"
       href: Links.html
 output_dir: "docs"
