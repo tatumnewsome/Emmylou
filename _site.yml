@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "All about Emmy"
       href: index.html
-    - text: "Pictures"
+    - text: "Pup Pals"
       href: Journal.html
     - text: "Favorite Products"
       href: Links.html
