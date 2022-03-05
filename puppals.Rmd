@@ -4,3 +4,4 @@ output: html_document
 ---
 
 # TEST
+Emmylou has never met a stranger. She gets along with dogs of all sizes. Since she is a puppy, we joke that she is that annoying little sibling that always wants to play with the big kids. 
