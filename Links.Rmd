@@ -4,6 +4,36 @@ output: html_document
 ---
 
 # TEST
+Since Emmylou is a pretty smart gal, she has to stay stimulated or she will bark nonstop. Here are some of her favorite products that could be useful for other dog owners.
+
+1. KONG Wobbler 
+
+add link
+
+This allows the dog to eat slower and stimulate them at the same time. So much fun for them, but does leave the floor with dog food crumbs.
+
+2. Sensory Ball
+
+add link
+
+This is hands down Emmylou's favorite toy. It's super bouncy and squeaky and rattles. She doesn't tear this ball up like she tears up other toys.
+
+3. Knee Bones
+
+add link
+
+These are gross and smell awful, but really do the trick. A lady at the pet store recommended them because they are easy for digestion. They last longer than products like bully sticks. 
+
+4. "Honey" SmartPetLove Stuffed Toy
+
+add link
+
+This stuffed animal has been with Emmylou since we picked her up. We named her Honey. Honey sleeps with Emmylou. Usually Emmylou chews up any stuffed toy within 15 minutes, but she doesn't do that with Honey. So I think it really does comfort her. 
+
+5. Training Treats, any brand you trust
+
+Since Aussiedoodles are easy to train, having small treats on hand is helpful! You do not have to break them up and they are easy to bring on walks and outings. 
+
 
 <!-- ### R and R-Studio -->
 
