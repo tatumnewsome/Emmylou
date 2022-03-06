@@ -1,36 +1,35 @@
 ---
-title: "Resources"
+title: "Favorite Products"
 output: html_document
 ---
 
-# TEST
+# 
 Since Emmylou is a pretty smart gal, she has to stay stimulated or she will bark nonstop. Here are some of her favorite products that could be useful for other dog owners.
 
-1. KONG Wobbler 
-
-add link
+1. <a href="https://www.amazon.com/KONG-PW1-Wobbler-Large/dp/B003ALMW0M/ref=sr_1_2?crid=WF2TC7QR7XB5&keywords=kong+wobbler&qid=1646583847&sprefix=kong+w%2Caps%2C109&sr=8-2" style="font-size: 16px;">
+  KONG Wobbler </a>
 
 This allows the dog to eat slower and stimulate them at the same time. So much fun for them, but does leave the floor with dog food crumbs.
 
-2. Sensory Ball
+2. <a href="https://www.amazon.com/Ethical-Pets-Sensory-Ball-3-25/dp/B00SH7489W/ref=sr_1_1_sspa?keywords=sensory+ball+for+dogs&qid=1646584285&sprefix=sensory+ball+for+%2Caps%2C84&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFCSk5QVFNTMDNTU0UmZW5jcnlwdGVkSWQ9QTA3OTY5MDZLQlk0TzgzSVVJMTYmZW5jcnlwdGVkQWRJZD1BMDAxNTEyMTNKSFRWVllZRjRZWVImd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl" style="font-size: 16px;">
+  Sensory Ball </a>
 
-add link
+
 
 This is hands down Emmylou's favorite toy. It's super bouncy and squeaky and rattles. She doesn't tear this ball up like she tears up other toys.
 
-3. Knee Bones
-
-add link
+3. <a href="https://www.amazon.com/Jack-Pup-Bones-Aggressive-Chewers/dp/B07WZWRWB2/ref=sr_1_2_sspa?crid=2LT3KY4J8QPOY&keywords=knee+bones&qid=1646584433&sprefix=knee+bones%2Caps%2C91&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaOE9YTVBCQzdRT0cmZW5jcnlwdGVkSWQ9QTA0ODM3NjczTkUwT1NVV0UwV01LJmVuY3J5cHRlZEFkSWQ9QTA5MDQ4NDkzNEg0NzhTV1ZWMUJPJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==" style="font-size: 16px;">
+  Knee Bones </a>
 
 These are gross and smell awful, but really do the trick. A lady at the pet store recommended them because they are easy for digestion. They last longer than products like bully sticks. 
 
-4. "Honey" SmartPetLove Stuffed Toy
-
-add link
+4. <a href="https://www.amazon.com/SmartPetLove-Snuggle-Puppy-Behavioral-Brown/dp/B0722XGRMB/ref=sr_1_2?crid=2BINO8AWZYLJT&keywords=stuffed%2Banimals%2Bfor%2Bdogs%2Bcomfort&qid=1646584615&sprefix=stuffed%2Banimals%2Bfor%2Bdogs%2Caps%2C83&sr=8-2&th=1" style="font-size: 16px;">
+  SmartPetLove Stuffed Toy </a>
 
 This stuffed animal has been with Emmylou since we picked her up. We named her Honey. Honey sleeps with Emmylou. Usually Emmylou chews up any stuffed toy within 15 minutes, but she doesn't do that with Honey. So I think it really does comfort her. 
 
-5. Training Treats, any brand you trust
+5. <a href="https://www.amazon.com/Blue-Buffalo-Natural-Soft-Moist-Training/dp/B08XY7D7BL/ref=sr_1_6?keywords=dog+training+treats&qid=1646584812&sprefix=dog+train%2Caps%2C95&sr=8-6" style="font-size: 16px;">
+  Training Treats </a>
 
 Since Aussiedoodles are easy to train, having small treats on hand is helpful! You do not have to break them up and they are easy to bring on walks and outings. 
 
