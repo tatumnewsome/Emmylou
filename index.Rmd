@@ -32,10 +32,12 @@ Emmylou is a Mini Aussiedoodle born in Bremen, GA. She was born on September 21s
 3.  Cuddling with her people
 
 4.  Trips to the lake
+
+![](images/eloutside.jpg)
 :::
 
 <!-- ::: col-sm-6 -->
-<!-- ### ![](images/PartyPony.jpeg) </a>
+<!-- ### ![](images/eloutside.jpg) </a>
 
 <!-- <a href = "https://crumplab.github.io"> ![](images/logo.png) </a> -->
 <!-- ::: -->
