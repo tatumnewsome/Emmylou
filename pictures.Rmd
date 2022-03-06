@@ -5,31 +5,50 @@ output: html_document
 
 # TEST
 
-![Emmylou rocking the party pony because her hair was too long](images/PartyPony.jpeg)</a>
+When the bangs get too long, party pony time!
+![](images/PartyPony.jpeg)</a>
+
+
+Luna and Emmylou at Fetch in Atlanta, GA.
+![](images/lunaandel.JPG)</a>
+
+
+Emmylou's first time at the lake
+![](images/ellake.jpg)</a>
+
+
+Emmylou as a puppy
+![](images/elleaves.jpg)<a/>
 
 
 <!-- <style type="text/css"> -->
+
 <!-- .title { -->
+
 <!--   display: none; -->
+
 <!-- } -->
 
 <!-- #getting-started img { -->
+
 <!--   margin-right: 10px; -->
+
 <!-- } -->
 
 <!-- </style> -->
 
 <!-- <div class="row" style="padding-top: 30px;"> -->
+
 <!-- <div class="col-sm-6"> -->
 
 <!-- # **Emmylou** -->
 
 <!-- Here is where I will put pictures if I learn that step -->
 
-
 <!-- </div> -->
+
 <!-- <div class="col-sm-6"> -->
 
-
 <!-- </a> -->
+
 <!-- </div> -->
