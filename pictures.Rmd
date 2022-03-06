@@ -4,6 +4,10 @@ output: html_document
 ---
 
 # TEST
+
+![Emmylou rocking the party pony because her hair was too long](images/PartyPony.jpeg)</a>
+
+
 <!-- <style type="text/css"> -->
 <!-- .title { -->
 <!--   display: none; -->
