@@ -3,7 +3,7 @@ title: "Pictures"
 output: html_document
 ---
 
-# TEST
+
 
 When the bangs get too long, party pony time!
 ![](images/PartyPony.jpeg)</a>
@@ -18,7 +18,7 @@ Emmylou's first time at the lake
 
 
 Emmylou as a puppy
-![](images/elleaves.jpg)<a/>
+![](images/elleaves.jpg)</a>
 
 
 <!-- <style type="text/css"> -->
